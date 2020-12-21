@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button_add">Sumar</string>
+    <string name="button_subtract">Restar</string>
+    <string name="button_multiply">Multiplicar</string>
+    <string name="button_divide">Dividir</string>
+    <string name="number_one">Número uno</string>
+    <string name="number_two">Número dos</string>
+</resources>
